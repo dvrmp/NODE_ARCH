@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "variable-name": [
+      true,
+      "allow-leading-underscore",
+      "require-const-for-all-caps"
+    ],
+    "no-any": true,
+    "ban-ts-ignore": true,
+    "no-empty": true,
+    "no-empty-interface": true,
+    "no-duplicate-variable": true
+  }
+}

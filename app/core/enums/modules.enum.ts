@@ -1,0 +1,3 @@
+export enum MODULES_ENUM {
+    AUTHENTICATION = 'AUTHENTICATION',
+}
